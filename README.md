@@ -13,7 +13,7 @@ The Standalone version of EIPpred is written in python3, and the following libra
 ## Minimum USAGE
 To know about the available option for the standalone, type the following command:
 ```
-python eippred.py -h
+python3 eippred.py -h
 ```
 To run the example, type the following command:
 ```
@@ -23,7 +23,7 @@ This will predict the MIC values of the submitted sequences, which will help ide
 
 ## Full Usage
 ```
-usage: eippred.py [-h] 
+usage: python3 eippred.py [-h] 
                   [-i INPUT]
                   [-o OUTPUT]
                   [-j {1,2,3}]
