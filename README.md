@@ -5,6 +5,11 @@ A computational approach to predict the MIC values of inhibitory peptides agains
 EIPpred is developed to predict and design the inhibitory peptides and scan the inhibitory regions in a protein sequence. In the standalone version, the Random Forest regressor-based model has been implemented. 
 EIPpred is also available as a web server at https://webs.iiitd.edu.in/raghava/eippred. Please read/cite the content about the EIPpred for complete information, including the algorithm behind the approach.
 
+## Reference
+<a href="https://doi.org/10.1038/s41598-025-86638-z">Bajiy\
+a, N., Kumar, N. & Raghava, G.P.S. Prediction of inhibitory peptides against E.\
+coli with desired MIC value. Sci Rep 15, 4672 (2025). https://doi.org/10.1038/s\
+41598-025-86638-z</a>
 ## PIP installation
 The PIP version is also available for easy installation and usage of this tool. The following command is required to install the package
 
